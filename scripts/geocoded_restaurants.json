@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Ravintola Perho",
+    "url": "https://www.ravintolaperho.fi/",
+    "address": "Perhonkatu 11, 00100 Helsinki",
+    "coordinates": [
+      24.921263,
+      60.170756
+    ]
+  },
+  {
+    "name": "Ravintola Story",
+    "url": "https://www.story-restaurants.fi/",
+    "address": "Urho Kekkosenkatu 1, 00100 Helsinki",
+    "coordinates": [
+      24.93315,
+      60.169698
+    ]
+  },
+  {
+    "name": "Dylan Marmoripiha",
+    "url": "https://www.dylan.fi/marmoripiha",
+    "address": "Keskuskatu 3 A, 00100 Helsinki",
+    "coordinates": [
+      24.943609,
+      60.168392
+    ]
+  },
+  {
+    "name": "Sofia Helsinki",
+    "url": "https://sofiahelsinki.fi/?gclid=EAIaIQobChMIy5Pyvbek8wIVygJ7Ch1JoQBJEAAYASAAEgKJfvD_BwE",
+    "address": "Sofiankatu 4, 00100 helsinki",
+    "coordinates": [
+      24.925372,
+      60.16972
+    ]
+  },
+  {
+    "name": "Ravintola Aito",
+    "url": "https://ravintola-aito.fi/",
+    "address": "Museokatu 29, 00100 Helsinki",
+    "coordinates": [
+      24.921107,
+      60.175533
+    ]
+  },
+  {
+    "name": "Unicafe Kaivopiha",
+    "url": "https://unicafe.fi/",
+    "address": "Mannerheimintie 3, 00101 Helsinki",
+    "coordinates": [
+      24.940585,
+      60.168913
+    ]
+  },
+  {
+    "name": "Sushibar+Wine Uudenmaankatu",
+    "url": "https://sushibarwine.com/",
+    "address": "Uudenmaankatu 15, 00120 Helsinki",
+    "coordinates": [
+      24.940834,
+      60.164569
+    ]
+  },
+  {
+    "name": "Block by Dylan",
+    "url": "https://www.dylan.fi/block",
+    "address": "Eteläranta 18, 00130 Helsinki",
+    "coordinates": [
+      24.952221,
+      60.166897
+    ]
+  },
+  {
+    "name": "Löyly",
+    "url": "https://www.loylyhelsinki.fi/",
+    "address": "Hernesaarenranta 4, 00150 Helsinki",
+    "coordinates": [
+      24.930336,
+      60.152129
+    ]
+  },
+  {
+    "name": "My Lunch",
+    "url": "https://www.facebook.com/mylunchruoholahti",
+    "address": "Porkkalankatu 24, 00180 Helsinki",
+    "coordinates": [
+      24.907098,
+      60.163935
+    ]
+  },
+  {
+    "name": "Dylan Böle",
+    "url": "https://www.dylan.fi/bole",
+    "address": "Pasilankatu 10, 00240 Helsinki",
+    "coordinates": [
+      24.927206,
+      60.198525
+    ]
+  },
+  {
+    "name": "Ooppera Baletti/ Restel Ravintolat Oy",
+    "url": "https://oopperabaletti.fi/palvelut/oopperaravintola/",
+    "address": "Helsinginkatu 58, 00250 helsinki",
+    "coordinates": [
+      24.91847,
+      60.188485
+    ]
+  },
+  {
+    "name": "Bun2Bun Kallio",
+    "url": "https://bun2bun.fi/",
+    "address": "Vaasankatu 13, 00500 Helsinki",
+    "coordinates": [
+      24.957809,
+      60.188505
+    ]
+  },
+  {
+    "name": "Alice Italian",
+    "url": "https://www.aliceitalian.fi/",
+    "address": "Konepajankuja 1, 00510 Helsinki",
+    "coordinates": [
+      24.948861,
+      60.191102
+    ]
+  },
+  {
+    "name": "Dylan Corner",
+    "url": "https://www.dylan.fi/corner",
+    "address": "Kuortaneenkatu 2, 00510 Helsinki",
+    "coordinates": [
+      24.947125,
+      60.196293
+    ]
+  },
+  {
+    "name": "Dylan Kottby",
+    "url": "https://www.dylan.fi/kottby",
+    "address": "Mäkitorpantie 3, 00620 Helsinki",
+    "coordinates": [
+      24.949063,
+      60.222912
+    ]
+  },
+  {
+    "name": "Perhon Helmi",
+    "url": "https://perho.fi/startti/ruokailu-kampuksilla-opiskelijalounas/",
+    "address": "Vanha Helsingintie 13, 00760 Helsinki",
+    "coordinates": [
+      25.071688,
+      60.265365
+    ]
+  },
+  {
+    "name": "Dylan Tiksi",
+    "url": "https://www.dylan.fi/tiksi",
+    "address": "Väritehtaankatu 8, 01300 Vantaa",
+    "coordinates": [
+      25.046533,
+      60.292752
+    ]
+  },
+  {
+    "name": "Lunch Hub",
+    "url": "https://www.lunchhub.fi/",
+    "address": "Vanha Nurmijärventie 21, RAK 4, 01670 Vantaa",
+    "coordinates": [
+      24.873919,
+      60.276244
+    ]
+  },
+  {
+    "name": "Dylan&Friends",
+    "url": "https://www.dylan.fi/keilaniemi",
+    "address": "Keilaniementie 1, 02150 Espoo",
+    "coordinates": [
+      24.830647,
+      60.174794
+    ]
+  },
+  {
+    "name": "Dylan Lepuski & Bob Cafe",
+    "url": "https://www.dylan.fi/Lepuski",
+    "address": "Linnoitustie 6, 02600 Espoo",
+    "coordinates": [
+      24.814082,
+      60.211173
+    ]
+  },
+  {
+    "name": "BarLaurea",
+    "url": "https://www.barlaurea.fi",
+    "address": "Vanha maantie 9, 02650 Espoo",
+    "coordinates": [
+      24.80536,
+      60.223453
+    ]
+  },
+  {
+    "name": "Mili´s Food & Café Leppävaara",
+    "url": "https://www.milisfood.fi/",
+    "address": "Maantienpelto 1, 02650 Espoo",
+    "coordinates": [
+      24.80611,
+      60.223568
+    ]
+  },
+  {
+    "name": "Mili´s Food & Café Tapiola",
+    "url": "https://www.milisfood.fi/",
+    "address": "Urheilupuistontie 3, 02200 Espoo",
+    "coordinates": [
+      24.780573,
+      60.17782
+    ]
+  },
+  {
+    "name": "Krapihovi Oy",
+    "url": "https://www.krapi.fi",
+    "address": "Rantatie 2, 04310 Tuusula",
+    "coordinates": [
+      25.051666,
+      60.418568
+    ]
+  },
+  {
+    "name": "Ravintola Friida",
+    "url": "https://www.friida.fi",
+    "address": "Matarankatu 6, 40100 Jyväskylä",
+    "coordinates": [
+      25.75898,
+      62.247656
+    ]
+  },
+  {
+    "name": "Story Tripla",
+    "url": "https://www.story-restaurants.fi/ravintolat/story-tripla/",
+    "address": "Mall of Tripla, 4. krs Little Manhattan  , 00520 Helsinki",
+    "coordinates": [
+      24.937935,
+      60.199124
+    ]
+  },
+  {
+    "name": "Story X Coolhed Viikki",
+    "url": "https://www.story-restaurants.fi/ravintolat/coolhead-x-story/",
+    "address": "Koetilantie 1 (Gardenian päärakennus)  , 00790 Helsinki",
+    "coordinates": [
+      25.016709,
+      60.224389
+    ]
+  },
+  {
+    "name": "Story Tapiola by Huuva",
+    "url": "https://www.story-restaurants.fi/ravintolat/tapiola-by-huuva/",
+    "address": "Kauppamiehentie 1  , 02100 Espoo",
+    "coordinates": [
+      24.801245,
+      60.176398
+    ]
+  },
+  {
+    "name": "Sushibar+Wine Freda",
+    "url": "https://sushibarwine.com/ravintolat/freda/",
+    "address": "Fredrikinkatu 42, 00100 Helsinki",
+    "coordinates": [
+      24.932755,
+      60.167107
+    ]
+  },
+  {
+    "name": "Sushibar+Wine City",
+    "url": "https://sushibarwine.com/ravintolat/city/",
+    "address": "Kaivokatu 8, Kauppakeskus Citycenter 2. kerros, 00100 Helsinki",
+    "coordinates": [
+      24.941074,
+      60.170203
+    ]
+  },
+  {
+    "name": "Sushibar+Wine Kallio",
+    "url": "https://sushibarwine.com/ravintolat/kallio/",
+    "address": "Hämeentie 19, 00500 Helsinki",
+    "coordinates": [
+      24.961558,
+      60.185882
+    ]
+  },
+  {
+    "name": "Sushibar+Wine Iso Omena",
+    "url": "https://sushibarwine.com/ravintolat/iso-omena/",
+    "address": "Piispansilta 11, 02230 Espoo",
+    "coordinates": [
+      24.737068,
+      60.161769
+    ]
+  },
+  {
+    "name": "Bun2Bun Punavuori",
+    "url": "https://bun2bun.fi/bun2bun-punavuori/",
+    "address": "Pursimiehenkatu 5, 00150 Helsinki",
+    "coordinates": [
+      24.940714,
+      60.160508
+    ]
+  },
+  {
+    "name": "Bun2Bun REDI",
+    "url": "https://bun2bun.fi/bun2bun-redi/",
+    "address": "Hermannin rantatie 5, 00580 Helsinki",
+    "coordinates": [
+      24.980723,
+      60.187309
+    ]
+  },
+  {
+    "name": "Bun2Bun G.O.A.T. ",
+    "url": "https://bun2bun.fi/bun2bun-g-o-a-t-espoo/",
+    "address": "Länsituuli 12, 02100 Espoo",
+    "coordinates": [
+      24.8044,
+      60.174648
+    ]
+  },
+  {
+    "name": "Palmia Kaupungintalon ravintola",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/kaupungintalon-ravintola/",
+    "address": "Sofiankatu 1, 00170 Helsinki",
+    "coordinates": [
+      24.953086,
+      60.168526
+    ]
+  },
+  {
+    "name": "Ravintola 27",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/ravintola-27/",
+    "address": "Sörnäisten rantatie 27, 00500 Helsinki",
+    "coordinates": [
+      24.96711,
+      60.185795
+    ]
+  },
+  {
+    "name": "Ravintola Svengi",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/svengi/",
+    "address": "Läkkisepäntie 23, 00620 Helsinki",
+    "coordinates": [
+      24.943853,
+      60.22051
+    ]
+  },
+  {
+    "name": "Ravintola Osmo",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/osmo/",
+    "address": "Osmontie 34, 00610 Helsinki",
+    "coordinates": [
+      24.946432,
+      60.219088
+    ]
+  },
+  {
+    "name": "Ravintola Malmitalo",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/malmitalo/",
+    "address": "Ala-Malmin tori 1, 00700 Helsinki",
+    "coordinates": [
+      25.014651,
+      60.250206
+    ]
+  },
+  {
+    "name": "Ravintola Puro",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/puro/",
+    "address": "Malminrinne 6 E, 00100 Helsinki",
+    "coordinates": [
+      24.931029,
+      60.167941
+    ]
+  },
+  {
+    "name": "Ravintola Töölö 49",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/toolo-49/",
+    "address": "Töölönkatu 49, 00250 Helsinki",
+    "coordinates": [
+      24.920916,
+      60.183451
+    ]
+  },
+  {
+    "name": "Ravintola Huoltamo",
+    "url": "https://ruoka.palmia.fi/fi/",
+    "address": "Radiokatu 5, 00240 Helsinki",
+    "coordinates": [
+      24.924791,
+      60.20315
+    ]
+  },
+  {
+    "name": "Ravintola Onnikka",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/onnikka/",
+    "address": "Nauvontie 3, 00280 Helsinki",
+    "coordinates": [
+      24.901709,
+      60.206445
+    ]
+  },
+  {
+    "name": "Ravintola Loft 33",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/loft33/",
+    "address": "Teollisuuskatu 33, 00510 Helsinki",
+    "coordinates": [
+      24.944124,
+      60.195849
+    ]
+  },
+  {
+    "name": "Ravintola Greenport",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/greenport/",
+    "address": "Työpajankatu 14, 00580 Helsinki",
+    "coordinates": [
+      24.980549,
+      60.187961
+    ]
+  },
+  {
+    "name": "Kampin rafla",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/kampin-rafla/",
+    "address": "Salomonkatu 21, 00580 Helsinki",
+    "coordinates": [
+      24.978919,
+      60.187298
+    ]
+  },
+  {
+    "name": "Ravintola Merta",
+    "url": "https://ruoka.palmia.fi/fi/ravintola/ravintola/merta/",
+    "address": "Työpajankatu 8, 00580 Helsinki",
+    "coordinates": [
+      24.976527,
+      60.188917
+    ]
+  }
+]
